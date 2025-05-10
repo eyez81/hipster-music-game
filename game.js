@@ -1,3 +1,4 @@
+import songsList from './songs.js';
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 
